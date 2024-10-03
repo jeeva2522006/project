@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../java hello"
+		},
+		{
+			"path": "../OTP"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OTP"
+	}
+}
